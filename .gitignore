@@ -1,0 +1,26 @@
+# Eclipse
+.settings/
+.metadata/
+.classpath
+.project
+bin/
+
+# Compiled Java classes
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE specific
+.idea/
+*.iml
+.vscode/
